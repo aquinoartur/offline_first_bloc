@@ -5,12 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "desafio_bloc",
+            "name": "offline_firsrt_bloc",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "desafio_bloc (profile mode)",
+            "name": "offline_firsrt_bloc (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
